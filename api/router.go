@@ -1,10 +1,10 @@
 package api
 
 import (
-	"github.com/Sansui233/proxypool/pkg/provider"
-	"github.com/Sansui233/proxypoolCheck/config"
-	"github.com/Sansui233/proxypoolCheck/internal/app"
-	appcache "github.com/Sansui233/proxypoolCheck/internal/cache"
+	"github.com/momowind/proxypool/pkg/provider"
+	"github.com/momowind/proxypoolCheck/config"
+	"github.com/momowind/proxypoolCheck/internal/app"
+	appcache "github.com/momowind/proxypoolCheck/internal/cache"
 	"github.com/gin-contrib/cache"
 	"github.com/gin-contrib/cache/persistence"
 	"github.com/gin-gonic/gin"

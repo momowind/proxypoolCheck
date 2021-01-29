@@ -2,7 +2,7 @@ package config
 
 import (
 	"errors"
-	"github.com/Sansui233/proxypool/pkg/tool"
+	"github.com/momowind/proxypool/pkg/tool"
 	"github.com/ghodss/yaml"
 	"io/ioutil"
 	"os"

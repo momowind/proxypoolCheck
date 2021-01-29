@@ -3,7 +3,7 @@
 ## Info
 
 This is proxy health check and provider part of proxypool. You should have had a
-[proxypool](https://github.com/sansui233/proxypool) server available at first.
+[proxypool](https://github.com/momowind/proxypool) server available at first.
 
 Due to the poor availability of proceeding node health check on servers overseas, The best usage of this project is to run on your own server within Mainland China.
 
@@ -13,7 +13,7 @@ Choose either.
 
 ### 1. Use release version
 
-Download from [releases](https://github.com/Sansui233/proxypoolCheck/releases)
+Download from [releases](https://github.com/momowind/proxypoolCheck/releases)
 
 Put config.yaml into directory and run. You can use -c to specify configuration path.
 
@@ -27,7 +27,7 @@ Put config.yaml into directory and run. You can use -c to specify configuration 
 
 Make sure golang installed. Then download source
 ```sh
-$ go get -u -v github.com/Sansui233/proxypoolCheck
+$ go get -u -v github.com/momowind/proxypoolCheck
 ```
 
 And run
